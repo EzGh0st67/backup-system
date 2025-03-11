@@ -1,0 +1,21 @@
+# Documentation files  
+*.doc  
+*.html  
+*.pdf  
+  
+# Build files  
+*.obj  
+*.exe  
+  
+# Backup files  
+backups/  
+  
+# IDE files  
+.vs/  
+*.suo  
+*.user  
+*.sln.docstates  
+  
+# Temporary files  
+*.tmp  
+~$* 
