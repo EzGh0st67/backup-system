@@ -1,7 +1,4 @@
-# Documentation files  
-*.doc  
-*.html  
-*.pdf  
+
   
 # Build files  
 *.obj  
